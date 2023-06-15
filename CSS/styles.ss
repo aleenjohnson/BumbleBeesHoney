@@ -130,7 +130,7 @@ p{
 
 
 #cta{
-
+  padding: 7% 15%;
     background-color: #fbf469;
     text-align: center;
 
